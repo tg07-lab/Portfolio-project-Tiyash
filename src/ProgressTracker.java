@@ -14,7 +14,7 @@ package components.workoutsession;
 public final class ProgressTracker {
 
     /**
-     * Private constructor to prevent instantiation.
+     * Private constructor to prevent instantiation..
      */
     private ProgressTracker() {
     }
