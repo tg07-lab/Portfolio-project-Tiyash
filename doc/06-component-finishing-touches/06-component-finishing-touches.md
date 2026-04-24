@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Tiyash Ghosh**:
-- **ghosh.331**:
-- **3/24/ @11:59**:
+- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
+- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
+- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
 
 ## Assignment Overview
 
@@ -49,6 +49,8 @@ Many of these additional techniques are somewhat out of the scope of this
 course, but just knowing about them could set you up for long term success.
 
 ## Assignment Checklist
+
+<!-- TODO: browse the checklist then delete this comment -->
 
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
@@ -138,6 +140,8 @@ merges, you will need to pull the changes from main into your current branch
 to see them. If you don't like this workflow, you may try following the
 rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
+
+<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -303,18 +307,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-I understand what goes into a project more for example we started off with brainstorming then the interface then abstract class then kernal implementation and so on. This step by step process helped me learn more about how to devolp a project. Usually i also only had to fill in blanks instead of creating a whole project so this was a good start to knowing how to start something from scatch.
+<!-- TODO: discuss -->
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-One thing i learned was the diffrences bewteen interfaces and abstract classes one defines the contract and what its supposed to do with nothing in it yet and abstarct classes uses kernal methods to fill in the behavior.
+<!-- TODO: discuss -->
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-I didnt realize how much effort it goes into one project and this was a small scale project to what big companies do so i cant imagine the amount of people and work it takes to do one big project.
+<!-- TODO: discuss -->
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -322,30 +326,29 @@ I didnt realize how much effort it goes into one project and this was a small sc
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-some skills i picked up were using the github repo with pushing and pulling requests and publishing it so other people can look at my work. Overall just a lot of tiny skills part by part like preconditions how to break down a big problem into smaller parts.
+<!-- TODO: discuss -->
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
--Built a multi-layered Java API from scratch using interfaces, abstract classes, and a concrete implementation
--Managed code and tracked changes using Git and GitHub pull requests
--Refined and improved the same codebase across multiple rounds of feedback over a full semester
--Used design-by-contract principles to define clear preconditions and postconditions for every method
+<!-- TODO: discuss -->
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-I liked the thinking part of it but the coding part of it was a little tideous for me and i didnt like that much but maybe since it is the first time of doing this type of work. I dont think i complelty hate it I just need some more practice with this type of stuff and Ill eventually get the hang of it and start to enjoy it more.
+<!-- TODO: discuss -->
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-I could apply the skills i learned into certifications that i will do over the summer and some mentors I can contact would be you and my brother and my dad since they are also in the same field of work so i can learn a lot of stuff from them too,
+<!-- TODO: discuss -->
 
 ### Changelog
+
+<!-- TODO: update CHANGELOG then delete this comment -->
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
@@ -364,22 +367,24 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Designed test suite for WorkoutSession component
-- Designed two different use cases for WorkoutSession component
+- Designed test suite for <!-- insert name of component here --> component
+- Designed two different use cases for <!-- insert name of component here --> component
 
 ### Updated
 
-- Changed design to include removeSet implementation in WorkoutSession1L
+- Changed design to include ...
 
 ```
 
-Here `2026.04.23` would be the date of your submission, such as 2024.04.21.
+Here `YYYY.MM.DD` would be the date of your submission, such as 2024.04.21.
 
 You may notice that things are nicely linked in the root CHANGELOG. If you'd
 like to accomplish that, you will need to make GitHub releases after each pull
 request merge (or at least tag your commits). This is not required.
 
 ### Submission
+
+<!-- TODO: read the submission instructions then delete this comment -->
 
 Assuming that your project is in a GitHub repo somewhere and your changes are on
 a proof-of-concept branch, then what we'll want you to do is create a pull
